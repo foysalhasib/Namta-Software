@@ -1,0 +1,48 @@
+.main{  
+    max-width:320px;
+    margin: 0 auto;
+    background: rgb(66, 204, 66);
+    margin-top: 250px;
+    padding: 26px;
+    border-radius: 12px;
+    
+}
+.text{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+h5{
+    text-align: center;
+    color: rgb(187, 9, 9);
+    font-size: 28px;
+}
+
+input{
+   width: 180px;
+   height: 26px;
+   border-radius: 12px;
+   border: 1px solid red ;
+
+}
+button{
+    width:80px;
+    height: 26px;
+    border-radius: 12px;
+   background: yellow;
+   
+}
+button:hover{
+   background-color: rgb(62, 114, 190);
+   color: white;
+   transform: scale(1.08);
+}
+
+ul{   
+   font-size: 30px;   
+   color: white;
+}

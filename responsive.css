@@ -1,0 +1,14 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+    .main{
+        margin-top: 18px;
+    }
+    input{
+        width: 130px;
+        height: 24px;
+        border-radius: 10px;
+        
+     }
+     h1 {
+        font-size: 30px;
+    }
+ }
